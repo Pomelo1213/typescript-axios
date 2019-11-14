@@ -4,5 +4,5 @@ export interface ApiConfigs {
   url: string
   method: ApiMethod
   data?: any
-  param?: any
+  params?: any
 }
